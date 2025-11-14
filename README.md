@@ -1,1 +1,0 @@
-# TUTORIAL PYTHON con ejemplos
